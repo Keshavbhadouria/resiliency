@@ -1,0 +1,39 @@
+[08-Apr-2021 11:58:43 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:45 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:45 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:46 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:48 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:49 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:49 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:50 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:50 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:50 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:51 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:56 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:58:56 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:59:01 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:59:01 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:59:03 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 11:59:03 UTC] PHP Warning:  Use of undefined constant get_the_field - assumed 'get_the_field' (this will throw an Error in a future version of PHP) in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 12:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php:80
+Stack trace:
+#0 /home1/oxeenvpc/public_html/resiliency/wp-includes/template.php(730): require_once()
+#1 /home1/oxeenvpc/public_html/resiliency/wp-includes/template.php(676): load_template('/home1/oxeenvpc...', true, Array)
+#2 /home1/oxeenvpc/public_html/resiliency/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/index.php(3): get_header()
+#4 /home1/oxeenvpc/public_html/resiliency/wp-includes/template-loader.php(106): include('/home1/oxeenvpc...')
+#5 /home1/oxeenvpc/public_html/resiliency/wp-blog-header.php(19): require_once('/home1/oxeenvpc...')
+#6 /home1/oxeenvpc/public_html/resiliency/index.php(17): require('/home1/oxeenvpc...')
+#7 {main}
+  thrown in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
+[08-Apr-2021 12:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php:80
+Stack trace:
+#0 /home1/oxeenvpc/public_html/resiliency/wp-includes/template.php(730): require_once()
+#1 /home1/oxeenvpc/public_html/resiliency/wp-includes/template.php(676): load_template('/home1/oxeenvpc...', true, Array)
+#2 /home1/oxeenvpc/public_html/resiliency/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/index.php(3): get_header()
+#4 /home1/oxeenvpc/public_html/resiliency/wp-includes/template-loader.php(106): include('/home1/oxeenvpc...')
+#5 /home1/oxeenvpc/public_html/resiliency/wp-blog-header.php(19): require_once('/home1/oxeenvpc...')
+#6 /home1/oxeenvpc/public_html/resiliency/index.php(17): require('/home1/oxeenvpc...')
+#7 {main}
+  thrown in /home1/oxeenvpc/public_html/resiliency/wp-content/themes/resiliency/header.php on line 80
